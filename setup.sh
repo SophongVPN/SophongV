@@ -42,7 +42,7 @@ chmod +x cf.sh
 ./cf.sh
 
 #SSH & OPenVPN
-wget https://raw.githubusercontent.com/indotunnel/inc/main/setup/ssh-vpn.sh
+wget https://raw.githubusercontent.com/SophongVPN/SophongV/main/ssh-vpn.sh
 chmod +x ssh-vpn.sh 
 screen -S ssh-vpn ./ssh-vpn.sh
 
